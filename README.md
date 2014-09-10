@@ -4,7 +4,7 @@ A simple map embed and interface for editing.  Dditing is handled with the ever-
 
 ### Set Up
 
-1. go to [geojson.io](geojson.io), click open > GitHub > James Conkling > congo-green-citizen > gh-pages > data.geojson
+1. go to [geojson.io](geojson.io), click open > GitHub > crowdcover > congo-green-citizen > gh-pages > data.geojson
 1. click *edit layers* to add, delete, and move points
 1. click *table* to edit attributes.
 
