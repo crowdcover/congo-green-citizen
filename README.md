@@ -2,26 +2,24 @@
 
 A simple map embed and interface for editing.  Editing is handled with the ever-useful **geojson.io**.  Built for integration with the [Moabi Platform](rdc.moabi.org). Pretty light weight all around.
 
-
+See below for instructions.
 ***
 
-# Instructions
 
+## Open File
 
-### Open
-
-* If you haven't already, **sign in** by clicking the button on the top right of the screen.
+### If you haven't already, **sign in** by clicking the button on the top right of the screen.
 
 ![github login](https://cloud.githubusercontent.com/assets/4389360/4391329/2c3f6e2a-4404-11e4-98ff-7331fcb5260a.png)
 
 
-* Navigate to [http://geojson.io/](geojson.io) to edit the geojson data file.
+### Navigate to [http://geojson.io/](geojson.io) to edit the geojson data file.
   * You should already be logged in.  If not, click login again in the upper right and enter your github login credentials.
 
 ![geojson.io login](https://cloud.githubusercontent.com/assets/4389360/4391334/32838550-4404-11e4-928a-fff84d680bda.png)
 
 
-* Open your geojson data file: click **Open >  GitHub > crowdcover > congo-green-citizen > gh-pages > data.geojson**.  
+### Open your geojson data file: click **Open >  GitHub > crowdcover > congo-green-citizen > gh-pages > data.geojson**.  
 
 ![open github file](https://cloud.githubusercontent.com/assets/4389360/4391335/386bb47e-4404-11e4-8739-b3850c59daa5.png)
 
@@ -31,7 +29,7 @@ A simple map embed and interface for editing.  Editing is handled with the ever-
 
 ***
 
-### Edit
+### Edit File
 
 * To view the attribute table of each feature, click **Table**.  
 
@@ -57,7 +55,7 @@ A simple map embed and interface for editing.  Editing is handled with the ever-
 
 ***
 
-### Save
+### Save Edits
 
 * Once you've updated the geographic data, click **Save**.
 
