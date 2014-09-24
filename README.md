@@ -1,8 +1,10 @@
 # Congo Green Citizen
 
-A simple map embed and interface for editing.  Editing is handled with the ever-useful **geojson.io**.  Built for integration with the [Moabi Platform](rdc.moabi.org). Pretty light weight all around.
+A simple map embed and interface for editing.  Built for integration with the [Moabi Platform](rdc.moabi.org).  Pretty light weight all around.
 
-See below for instructions.
+View the rendered map at http://crowdcover.github.io/congo-green-citizen/
+
+Edit the map using geojson.io.  See below for editing instructions.
 ***
 
 
