@@ -9,7 +9,7 @@ Edit the map using geojson.io.  See below for editing instructions.
 
 
 ### Geojson.io
-* Navigate to [geojson.io](//geojson.io/) to edit the geojson data file.
+* Navigate to [geojson.io](http://geojson.io/) to edit the geojson data file.
 * If you are not logged in automatically, click login again in the upper right and enter your github login credentials.
 
 ![geojson.io login](https://cloud.githubusercontent.com/assets/4389360/4391334/32838550-4404-11e4-928a-fff84d680bda.png)
