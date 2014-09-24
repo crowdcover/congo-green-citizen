@@ -45,6 +45,21 @@
           0
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "title": "New Palm Concession",
+        "url": "www.news.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0380859375,
+          -4.258768357307995
+        ]
+      }
     }
   ]
 }
